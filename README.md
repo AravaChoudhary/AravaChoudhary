@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/) 
+
 ## 💻 Tech Stack:
 - C
 - C++
@@ -21,8 +22,11 @@
 - Matplotlib
 - Scikit-learn
 - Regression models
+- 
 ## 📊 GitHub Stats:
-<!-- Add your GitHub stats here -->
+![](https://github-readme-stats.vercel.app/api?username=AravaChoudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AravaChoudhary&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AravaChoudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
 <!-- Add your GitHub trophies here -->
