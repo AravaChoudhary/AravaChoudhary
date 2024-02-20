@@ -7,8 +7,7 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
-- LinkedIn: <i class="fab fa-linkedin"></i>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/) 
 ## 💻 Tech Stack:
 - C
 - C++
