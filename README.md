@@ -16,7 +16,7 @@
 - JavaScript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
 - SQL
-- MongoDB
+- Machine Learning
 - NumPy
 - Pandas
 - Matplotlib
