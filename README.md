@@ -22,7 +22,7 @@
 - Matplotlib
 - Scikit-learn
 - Regression models
-- 
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AravaChoudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AravaChoudhary&theme=radical&hide_border=false)<br/>
@@ -32,4 +32,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AravaChoudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)
