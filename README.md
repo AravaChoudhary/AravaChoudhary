@@ -10,17 +10,12 @@
 - [LinkedIn](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
 
 ## 💻 Tech Stack:
-- C
-- C++
-- HTML5
-- JavaScript
-- MERN stack (MongoDB, Express.js, React.js, Node.js)
-- SQL
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Regression models
+| Languages    | Frameworks/Libraries | Databases     | Tools         |
+|--------------|-----------------------|---------------|---------------|
+| C            | MERN stack            | SQL           | NumPy         |
+| C++          | HTML5                 | MongoDB       | Pandas        |
+|              | JavaScript            |               | Matplotlib    |
+|              |                       |               | Scikit-learn  |
 
 ## 📊 GitHub Stats:
 <!-- Add your GitHub stats here -->
