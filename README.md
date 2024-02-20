@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
+- LinkedIn: <i class="fab fa-linkedin"></i>
 
 ## 💻 Tech Stack:
 - C
