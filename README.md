@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**AravaChoudhary/AravaChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+- 🔭 I’m Arava Choudhary, currently working on Machine Learning and Data Science.
+- 👯 I’m looking to collaborate on projects related to Machine Learning and Data Science.
+- 💬 Ask me about Machine Learning, Web Development, and Data Structures & Algorithms.
+- ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+- [LinkedIn](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+- C
+- C++
+- HTML5
+- JavaScript
+- MERN stack (MongoDB, Express.js, React.js, Node.js)
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Regression models
+
+## 📊 GitHub Stats:
+<!-- Add your GitHub stats here -->
+
+## 🏆 GitHub Trophies:
+<!-- Add your GitHub trophies here -->
