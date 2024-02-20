@@ -32,4 +32,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=AravaChoudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=salorized)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight)
