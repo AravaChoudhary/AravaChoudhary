@@ -15,6 +15,8 @@
 - HTML5
 - JavaScript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
+- Django
+- Flask
 - SQL
 - Machine Learning
 - NumPy
