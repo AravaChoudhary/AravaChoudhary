@@ -13,15 +13,8 @@
 
 
 ## 💻 Tech Stack:
-[![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?logo=express&logoColor=white)](https://en.wikipedia.org/wiki/Express.js)
-[![Node.js](https://img.shields.io/badge/Node.js-%233C873A.svg?logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%2361DAFB.svg?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 [![Flask](https://img.shields.io/badge/Flask-%000000.svg?logo=flask&logoColor=white)](https://en.wikipedia.org/wiki/Flask_(web_framework))
-[![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
@@ -30,6 +23,15 @@
 [![Regression Models](https://img.shields.io/badge/Regression%20Models-%23000000.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Regression_analysis)
 [![Data Science](https://img.shields.io/badge/Data%20Science-%2334A853.svg?logo=data-science&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://en.wikipedia.org/wiki/Tableau_Software)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237D40F6.svg?logo=bootstrap&logoColor=white)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)](https://en.wikipedia.org/wiki/Tailwind_CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2361DAFB.svg?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?logo=express&logoColor=white)](https://en.wikipedia.org/wiki/Express.js)
+[![Node.js](https://img.shields.io/badge/Node.js-%233C873A.svg?logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+[![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
 ## 📊 GitHub Stats:
