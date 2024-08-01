@@ -16,8 +16,9 @@
 [![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?logo=express&logoColor=white)](https://en.wikipedia.org/wiki/Express.js)
+[![Node.js](https://img.shields.io/badge/Node.js-%233C873A.svg?logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2361DAFB.svg?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![MERN](https://img.shields.io/badge/MERN-%23000000.svg?logo=react&logoColor=white)](https://mernjs.com/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 [![Flask](https://img.shields.io/badge/Flask-%000000.svg?logo=flask&logoColor=white)](https://en.wikipedia.org/wiki/Flask_(web_framework))
 [![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
@@ -28,6 +29,7 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://en.wikipedia.org/wiki/Scikit-learn)
 [![Regression Models](https://img.shields.io/badge/Regression%20Models-%23000000.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Regression_analysis)
 [![Data Science](https://img.shields.io/badge/Data%20Science-%2334A853.svg?logo=data-science&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://en.wikipedia.org/wiki/Tableau_Software)
 
 
 ## 📊 GitHub Stats:
