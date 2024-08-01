@@ -27,6 +27,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300A3E0.svg?logo=matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Matplotlib)
 [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://en.wikipedia.org/wiki/Scikit-learn)
 [![Regression Models](https://img.shields.io/badge/Regression%20Models-%23000000.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Regression_analysis)
+[![Data Science](https://img.shields.io/badge/Data%20Science-%2334A853.svg?logo=data-science&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
 
 
 ## 📊 GitHub Stats:
