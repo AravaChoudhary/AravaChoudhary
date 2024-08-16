@@ -23,6 +23,7 @@
 [![Regression Models](https://img.shields.io/badge/Regression%20Models-%23000000.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Regression_analysis)
 [![Data Science](https://img.shields.io/badge/Data%20Science-%2334A853.svg?logo=data-science&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://en.wikipedia.org/wiki/Tableau_Software)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%2300B8D9.svg?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%234B32C3.svg?logo=googlecolab&logoColor=white)](https://en.wikipedia.org/wiki/Google_Colaboratory)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
