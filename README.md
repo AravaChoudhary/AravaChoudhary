@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=web&logoColor=white)](https://aravachoudhary.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000?logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23f4ca19.svg?logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
