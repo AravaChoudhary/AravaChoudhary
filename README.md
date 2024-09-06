@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack:
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
-[![Flask](https://img.shields.io/badge/Flask-%000000.svg?logo=flask&logoColor=white)](https://en.wikipedia.org/wiki/Flask_(web_framework))
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
