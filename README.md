@@ -7,7 +7,10 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%23a25ddc.svg?logo=web&logoColor=white)](https://aravachoudhary.vercel.app)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)     [![Medium](https://img.shields.io/badge/Medium-%23000000?logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)     [![LeetCode](https://img.shields.io/badge/LeetCode-%23f4ca19.svg?logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
+[![Website](https://img.shields.io/badge/Website-5D3FD3.svg?style=for-the-badge&logo=web&logoColor=white)](https://aravachoudhary.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
 
 
 ## 💻 Tech Stack:
