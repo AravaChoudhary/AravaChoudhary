@@ -11,14 +11,16 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhawuk-arora" height="30" width="40" /></a>
-
-<a href="https://aravachoudhary.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhawuk_arora" height="30" width="40" /></a>
   
-<a href="https://aravachoudhary.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white" alt="Website" height="30" width="120" /></a>
-<a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120" /></a>
-<a href="https://medium.com/@aravachoudhary11" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" height="30" width="120" /></a>
-<a href="https://leetcode.com/Aranika4518/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="30" width="120" /></a>
-</p>
+<a href="https://medium.com/@aravachoudhary11" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/Aranika4518/" target="_blank">
+    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/leetcode.png" alt="LeetCode" height="30" width="40" />
+</a>
+<a href="https://aravachoudhary.vercel.app" target="_blank">
+    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/web.png" alt="Website" height="30" width="40" />
+</a>
 
 
 ## 💻 Tech Stack:
