@@ -7,10 +7,13 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white)](https://aravachoudhary.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://aravachoudhary.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white" alt="Website" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120" /></a>
+<a href="https://medium.com/@aravachoudhary11" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" height="30" width="120" /></a>
+<a href="https://leetcode.com/Aranika4518/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="30" width="120" /></a>
+</p>
 
 
 ## 💻 Tech Stack:
