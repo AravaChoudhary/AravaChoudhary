@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
 </a>
+
 [![Website](https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white)](https://aravachoudhary.vercel.app)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
