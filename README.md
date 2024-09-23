@@ -7,21 +7,12 @@
 - ⚡ Fun fact: I am a Poetic Soul with interest in Poetry!
 
 ## 🌐 Socials:
-<h3 align="left">Connect with Me:</h3>
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 30px; width: 40px;" />
-    </a>
-    <a href="https://aravachoudhary.vercel.app" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white" alt="Website" style="height: 30px; width: 120px;" />
-    </a>
-    <a href="https://medium.com/@aravachoudhary11" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" style="height: 30px; width: 120px;" />
-    </a>
-    <a href="https://leetcode.com/Aranika4518/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" style="height: 30px; width: 120px;" />
-    </a>
-</div>
+**Connect with Me:**
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/arava-choudhary-9a8a61263/)
+[![Website](https://img.shields.io/badge/Website-5D3FD3.svg?style=flat&logo=web&logoColor=white)](https://aravachoudhary.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@aravachoudhary11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Aranika4518/)
 
 ## 💻 Tech Stack:
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
