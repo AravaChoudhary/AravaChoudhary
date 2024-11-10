@@ -46,11 +46,6 @@
 [![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AravaChoudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AravaChoudhary&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AravaChoudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
