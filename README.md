@@ -12,7 +12,10 @@
 <a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arava-choudhary-9a8a61263/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aranika4518/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aranika4518/" height="30" width="40" /></a>
 <a href="https://aravachoudhary.vercel.app" target="_blank" style="margin-left: 15px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Globe_icon.svg" alt="Website Logo" height="30" width="40" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" fill="blue" />
+        <path d="M50,5 A45,45 0 0,1 95,50 A45,45 0 0,1 50,95 A45,45 0 0,1 5,50 A45,45 0 0,1 50,5 Z" fill="white"/>
+    </svg>
 </a>
 <a href="https://medium.com/@aravachoudhary11" target="blank" style="margin-left: 15px;"><img src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" width="100" height="30" /></a>
 </p>
