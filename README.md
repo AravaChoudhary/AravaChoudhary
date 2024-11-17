@@ -38,6 +38,14 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" width="100" height="30" />
 </a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shaurya singh rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya singh rathore" height="30" width="40" /></a>
+<a href="https://kaggle.com/sho10381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sho10381" height="30" width="40" /></a>
+<a href="https://medium.com/@shauryasinghrathore419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shauryasinghrathore419" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/awesomeperson2913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awesomeperson2913" height="30" width="40" /></a>
+</p>
+
 ## 💻 Tech Stack:
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://en.wikipedia.org/wiki/Django_(web_framework))
 [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
