@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/arava-choudhary-9a8a61263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arava-choudhary-9a8a61263/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aranika4518/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aranika4518/" height="30" width="40" /></a>
 <a href="https://aravachoudhary.vercel.app" target="_blank" style="margin-left: 15px;">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/148/148767.svg" alt="Globe" style="width: 40px; height: 40px;">
+  <img src="https://img.icons8.com/ios/452/earth-globe.png" alt="Globe" style="width: 40px; height: 40px;">
 </a>
 <a href="https://medium.com/@aravachoudhary11" target="blank" style="margin-left: 15px;"><img src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" width="100" height="30" /></a>
 </p>
