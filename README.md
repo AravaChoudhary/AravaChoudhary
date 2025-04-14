@@ -52,7 +52,7 @@
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Aranika4518?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AravaChoudhary?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
